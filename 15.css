@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family:  Arial, sans-serif;
+}
+header{
+    background-color:#7777 ;
+    color:block;
+    text-align:center;
+    
+}
+.search{
+    margin-left: 800px;
+}
+
+.sub-section{
+    width:100px ;
+    height: 100px;
+}
+.sub-section ul li{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sub-section ul li img{
+    width: 200px;
+    height: 400px;
+    margin: 50px;
+    padding: 20px;
+    display: inline;
+}
+footer{
+    background-color:#7777;
+    padding:20px;
+    text-align:center;
+    color:white;
+    position: relative;
+    top: 2900px;
+}
+

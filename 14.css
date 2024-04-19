@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family:  Arial, sans-serif;
+}
+header{
+    background-color:#7777 ;
+    color:block;
+    text-align:center;
+    
+}
+.search{
+    margin-left: 800px;
+}
+.offer{
+    text-align:left;
+}
+ footer{
+   background-color:#7777;
+   padding:20px;
+   text-align:center;
+   color:white;
+   }
+   .container{
+    display: flex;
+    justify-content: space-between;
+    margin:left ;
+    margin:0px;
+    padding:0px;
+   }
+   
